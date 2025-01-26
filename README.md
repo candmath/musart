@@ -1,2 +1,1 @@
-# MUSART
-Uma aplicação Android que visa facilitar o acesso à cultura através da venda de ingressos para os usuários.
+Este projeto foi pensado e desenvolvido para ser o Trabalho Final das disciplinas Programação para Dispositivos Móveis (CH.INF.127) e Elaboração de Projetos II (CH.INF.128) 
