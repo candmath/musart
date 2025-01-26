@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Nome do aplicativo -->
+
+    <string name="app_name" translatable="false">MUSART</string>
+
+    <!-- Menu contextual -->
+
+    <string name="action_about">About</string>
+
+    <!-- Fragmento 1: Início -->
+
+    <string name="fragmento1_label">Homepage</string>
+    <string name="fragmento1_titulo">MY TICKETS</string>
+    <string name="fragmento1_subtitulo">List with all your purchased tickets</string>
+    <string name="fragmento1_botao_comprar">BUY</string>
+
+    <!-- Fragmento 2: Sobre -->
+
+    <string name="fragmento2_label">About</string>
+    <string name="fragmento2_texto1">An application for purchasing tickets to museum attractions</string>
+    <string name="fragmento2_texto2">Developed by Matheus Candiotto Rocha</string>
+    <string name="fragmento2_texto3">December 22, 2021</string>
+    <string name="fragmento2_texto4">Version: 1.0</string>
+
+    <!-- Fragmento 3: Compra de Ingresso -->
+
+    <string name="fragmento3_label">Ticket Purchase</string>
+    <string name="fragmento3_titulo">PURCHASE FORM</string>
+    <string name="fragmento3_subtitulo">Enter the purchased ticket information in the fields below</string>
+    <string name="fragmento3_dica_campo_titulo">Exhibition Title</string>
+    <string name="fragmento3_dica_campo_descricao">Exhibition Description</string>
+    <string name="fragmento3_dica_campo_museu">Museum</string>
+    <string name="fragmento3_dica_campo_preco">Price</string>
+    <string name="fragmento3_dica_campo_data">Exhibition\'s Date</string>
+    <string name="fragmento3_dica_campo_hora">Exhibition\'s Time</string>
+    <string name="fragmento3_checkbox_meia_entrada">Half-price?</string>
+    <string name="fragmento3_botao_finalizar_compra">Checkout</string>
+
+    <!-- Modelo de Linha -->
+
+    <string name="modelo_de_linha_placeholder">Text Example</string>
+    <string name="modelo_de_linha_icone_lixeira">Trashcan Icon</string>
+
+    <!-- Atalho do aplicativo: Início -->
+
+    <string name="home_shortcut_short_label">Homepage</string>
+    <string name="home_shortcut_long_label">Homepage</string>
+    <string name="home_disabled_message">Disabled</string>
+
+</resources>

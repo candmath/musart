@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Menu contextual -->
+
+    <string name="action_about">Acerca de</string>
+
+    <!-- Fragmento 1: Início -->
+
+    <string name="fragmento1_label">Página principal</string>
+    <string name="fragmento1_titulo">MIS ENTRADAS</string>
+    <string name="fragmento1_subtitulo">Lista con todas tus entradas compradas</string>
+    <string name="fragmento1_botao_comprar">COMPRAR</string>
+
+    <!-- Fragmento 2: Sobre -->
+
+    <string name="fragmento2_label">Acerca de</string>
+    <string name="fragmento2_texto1">Una aplicación para comprar entradas a las atracciones del museo</string>
+    <string name="fragmento2_texto2">Desarrollado por Matheus Candiotto Rocha</string>
+    <string name="fragmento2_texto3">22 de diciembre de 2021</string>
+    <string name="fragmento2_texto4">Versión: 1.0</string>
+
+    <!-- Fragmento 3: Compra de Ingresso -->
+
+    <string name="fragmento3_label">Compra de Entradas</string>
+    <string name="fragmento3_titulo">FORMULARIO DE COMPRA</string>
+    <string name="fragmento3_subtitulo">Ingrese la información del boleto comprado en los campos a continuación</string>
+    <string name="fragmento3_dica_campo_titulo">Título de la Exposición</string>
+    <string name="fragmento3_dica_campo_descricao">Descripción de la Exposición</string>
+    <string name="fragmento3_dica_campo_museu">Museo</string>
+    <string name="fragmento3_dica_campo_preco">Precio</string>
+    <string name="fragmento3_dica_campo_data">Fecha de la exposición</string>
+    <string name="fragmento3_dica_campo_hora">Tiempo de exposición</string>
+    <string name="fragmento3_checkbox_meia_entrada">Mitad de precio?</string>
+    <string name="fragmento3_botao_finalizar_compra">Verificar</string>
+
+    <!-- Modelo de Linha -->
+
+    <string name="modelo_de_linha_placeholder">Ejemplo de texto</string>
+    <string name="modelo_de_linha_icone_lixeira">Icono de papelera</string>
+
+    <!-- Atalho do aplicativo: Início -->
+
+    <string name="home_shortcut_short_label">Comienzo</string>
+    <string name="home_shortcut_long_label">Comienzo</string>
+    <string name="home_disabled_message">Discapacitado</string>
+
+</resources>

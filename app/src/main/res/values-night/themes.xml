@@ -1,0 +1,24 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <!-- Tema base da aplicação (escuro) -->
+
+    <style name="Theme.MUSART" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+
+        <!-- Cor primária -->
+
+        <item name="colorPrimary">@color/light_burgundy</item>
+        <item name="colorOnPrimary">@color/white</item>
+
+        <!-- Cor secundária -->
+
+        <item name="colorSecondary">@color/white</item>
+        <item name="colorSecondaryVariant">@color/white</item>
+        <item name="colorOnSecondary">@color/white</item>
+
+        <!-- Cor da barra de status -->
+
+        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimary</item>
+
+    </style>
+
+</resources>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Menu contextual -->
+
+    <string name="action_about">Di</string>
+
+    <!-- Fragmento 1: Início -->
+
+    <string name="fragmento1_label">Pagina iniziale</string>
+    <string name="fragmento1_titulo">I MIEI BIGLIETTI</string>
+    <string name="fragmento1_subtitulo">Elenco con tutti i biglietti acquistati</string>
+    <string name="fragmento1_botao_comprar">ACQUISTARE</string>
+
+    <!-- Fragmento 2: Sobre -->
+
+    <string name="fragmento2_label">Di</string>
+    <string name="fragmento2_texto1">Un\'applicazione per l\'acquisto di biglietti per le attrazioni del museo</string>
+    <string name="fragmento2_texto2">Sviluppato da Matheus Candiotto Rocha</string>
+    <string name="fragmento2_texto3">22 dicembre 2021</string>
+    <string name="fragmento2_texto4">Versione: 1.0</string>
+
+    <!-- Fragmento 3: Compra de Ingresso -->
+
+    <string name="fragmento3_label">Acquisto del Biglietto</string>
+    <string name="fragmento3_titulo">MODULO DI ACQUISTO</string>
+    <string name="fragmento3_subtitulo">Inserisci le informazioni sul biglietto acquistato nei campi sottostanti</string>
+    <string name="fragmento3_dica_campo_titulo">Titolo della Mostra</string>
+    <string name="fragmento3_dica_campo_descricao">Descrizione della Mostra</string>
+    <string name="fragmento3_dica_campo_museu">Museo</string>
+    <string name="fragmento3_dica_campo_preco">Prezzo</string>
+    <string name="fragmento3_dica_campo_data">Data della Mostra</string>
+    <string name="fragmento3_dica_campo_hora">Tempo di Mostra</string>
+    <string name="fragmento3_checkbox_meia_entrada">Metà prezzo?</string>
+    <string name="fragmento3_botao_finalizar_compra">Guardare</string>
+
+    <!-- Modelo de Linha -->
+
+    <string name="modelo_de_linha_placeholder">Esempio di Testo</string>
+    <string name="modelo_de_linha_icone_lixeira">Icona del Cestino</string>
+
+    <!-- Atalho do aplicativo: Início -->
+
+    <string name="home_shortcut_short_label">Pagina iniziale</string>
+    <string name="home_shortcut_long_label">Pagina iniziale</string>
+    <string name="home_disabled_message">Disabilitato</string>
+
+</resources>

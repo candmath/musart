@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Menu contextual -->
+
+    <string name="action_about">Sobre</string>
+
+    <!-- Fragmento 1: Início -->
+
+    <string name="fragmento1_label">Início</string>
+    <string name="fragmento1_titulo">MEUS INGRESSOS</string>
+    <string name="fragmento1_subtitulo">Lista com todos os seus ingressos comprados</string>
+    <string name="fragmento1_botao_comprar">COMPRAR</string>
+
+    <!-- Fragmento 2: Sobre -->
+
+    <string name="fragmento2_label">Sobre</string>
+    <string name="fragmento2_texto1">Um aplicativo para compra de ingressos para atrações de museus</string>
+    <string name="fragmento2_texto2">Desenvolvido por Matheus Candiotto Rocha</string>
+    <string name="fragmento2_texto3">22 de dezembro de 2021</string>
+    <string name="fragmento2_texto4">Versão: 1.0</string>
+
+    <!-- Fragmento 3: Compra de Ingresso -->
+
+    <string name="fragmento3_label">Compra de Ingresso</string>
+    <string name="fragmento3_titulo">FORMULÁRIO DE COMPRA</string>
+    <string name="fragmento3_subtitulo">Insira as informações do ingresso comprado nos campos abaixo</string>
+    <string name="fragmento3_dica_campo_titulo">Título da Exposição</string>
+    <string name="fragmento3_dica_campo_descricao">Descrição da Exposição</string>
+    <string name="fragmento3_dica_campo_museu">Museu</string>
+    <string name="fragmento3_dica_campo_preco">Preço</string>
+    <string name="fragmento3_dica_campo_data">Dia da Exposição</string>
+    <string name="fragmento3_dica_campo_hora">Hora da Exposição</string>
+    <string name="fragmento3_checkbox_meia_entrada">Meia-entrada?</string>
+    <string name="fragmento3_botao_finalizar_compra">Finalizar compra</string>
+
+    <!-- Modelo de Linha -->
+
+    <string name="modelo_de_linha_placeholder">Exemplo de Texto</string>
+    <string name="modelo_de_linha_icone_lixeira">Ícone de Lixeira</string>
+
+    <!-- Atalho do aplicativo: Início -->
+
+    <string name="home_shortcut_short_label">Início</string>
+    <string name="home_shortcut_long_label">Início</string>
+    <string name="home_disabled_message">Desativado</string>
+
+</resources>

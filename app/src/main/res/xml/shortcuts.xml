@@ -1,0 +1,18 @@
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Atalho do aplicativo: Início -->
+
+    <shortcut
+        android:shortcutId="home"
+        android:enabled="true"
+        android:icon="@drawable/ic_round_home_24"
+        android:shortcutShortLabel="@string/home_shortcut_short_label"
+        android:shortcutLongLabel="@string/home_shortcut_long_label"
+        android:shortcutDisabledMessage="@string/home_disabled_message">
+        <intent
+            android:action="android.intent.action.VIEW"
+            android:targetPackage="edu.ifsul.musart"
+            android:targetClass="edu.ifsul.musart.MainActivity" />
+    </shortcut>
+
+</shortcuts>
